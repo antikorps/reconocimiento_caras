@@ -5,7 +5,8 @@
 Programa para el reconocimiento de caras usando el servicio Rekognition de AWS
 
 ## Descargas
-
+[GNU/Linux (amd64)](https://github.com/antikorps/reconocimiento_caras/raw/main/bin/linux/reconocimiento_caras-amd64-linux-amd64)
+[Windows (amd64)](https://github.com/antikorps/reconocimiento_caras/raw/main/bin/windows/reconocimiento_caras-amd64.exe)
 
 ## Funcionamiento
 
